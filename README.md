@@ -45,8 +45,6 @@ Write this in your Command prompt
 $ pip install django
 
 $ pip install djangorestframework
-
-
 ```
 
 Then after this in the command prompt and use this command
