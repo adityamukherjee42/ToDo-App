@@ -12,7 +12,11 @@ A ToDo app is somethig that helps people remind what work is left for them to do
 <li>With Relativly simple UI UX i focused more on providing solution that would solve the base purpose and would be easy to use and good on the eyes.</li>
 </ul>
 
-
+<br>
+<p align="center" width="100%">
+    <img align='center'  width=500px src="1.jpg"><br>
+</p>
+<br>
 
 # Design Choices.
 Here I went for a relativly simple and clean UI . I used Bootstrap and Javascript for the designing. Also i Created an Unstrike Strike Functionalities that would be easy to understand for the user.
