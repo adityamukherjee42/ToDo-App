@@ -9,6 +9,11 @@ The project involves the building of a todo application. In a todo app, a user c
 A ToDo app is somethig that helps people remind what work is left for them to do. I wanted to Create something that is minimal and also something that will let me learn the CRUD Functionalities using Django REST Frame work.And Thus taking help from the resources available around i made the Following ToDo app.
 <ul>
 <li>My Web app Contains all the CRUD actions. I have connected my front end and Back end using the Fetch API for Responses.</li>
+    <ul>
+    <li>The user can add his Todo item usinf the task bar above</li>
+    <li>He or she can also Strike Untstrike relative to the staus of the work</li>
+    <li>There is also and Delete and Edit buttion which can perform the Update and the Delete Function</li>
+    </ul>
 <li>With Relativly simple UI UX i focused more on providing solution that would solve the base purpose and would be easy to use and good on the eyes.</li>
 </ul>
 
@@ -30,3 +35,18 @@ I would Like to add the following Functionalities in the future.
 <li>Adding a combination of Search and Submit bar.</li>
 <li>Providing a Work scheduling and prefrence functionality.</li>
 </ul>
+
+## Setup
+To run this project locally:
+Go to the directory where the project is present
+
+Write this in your Command prompt
+```
+$pip install django
+
+```
+
+Then after this in the command prompt and use this command
+```
+$ python manageserver.py runserver
+```
