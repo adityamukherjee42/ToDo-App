@@ -14,6 +14,10 @@ A ToDo app is somethig that helps people remind what work is left for them to do
     <li>He or she can also Strike Untstrike relative to the staus of the work</li>
     <li>There is also and Delete and Edit buttion which can perform the Update and the Delete Function</li>
     </ul>
+    <br>
+<p align="center" width="100%">
+    <img align='center'  width=500px src="2.jpg"><br>
+</p>
 <li>With Relativly simple UI UX i focused more on providing solution that would solve the base purpose and would be easy to use and good on the eyes.</li>
 </ul>
 
