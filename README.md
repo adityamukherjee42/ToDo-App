@@ -42,7 +42,10 @@ Go to the directory where the project is present
 
 Write this in your Command prompt
 ```
-$pip install django
+$ pip install django
+
+$ pip install djangorestframework
+
 
 ```
 
